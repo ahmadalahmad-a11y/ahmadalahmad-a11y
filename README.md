@@ -1,4 +1,4 @@
-# 👋 أهلاً بك! أنا [اسمك هنا]
+# 👋 أهلاً بك! أنا أحمد الأحمد
 ### 💻 Frontend Developer & Freelance Web Specialist
 
 أساعد الشركات والمشاهدين الأفراد في تحويل التصاميم والأفكار إلى مواقع ويب تفاعلية، وسريعة، وسلسة الاستخدام. متاح حالياً لاستقبال **المشاريع المستقلة والعمل الحر (Freelance Projects)**.
@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 الخدمات التي أقدمها (Services)
-* 🎨 **تحويل التصاميم إلى كود:** تحويل تصاميم Figma / Adobe XD إلى مواقع متجاوبة بدقة عالية Pixel-Perfect.
+* 🎨 **تحويل التصاميم إلى كود:** تحويل تصاميم Figma / Adobe XD إلى مواقع متجاوبة بدقة عالية.
 * ⚡ **تطوير تطبيقات الصفحة الواحدة (SPA):** بناء واجهات مستخدم سريعة وديناميكية باستخدام React.
 * 📱 **التجاوب مع كافة الشاشات (Responsive Design):** ضمان عمل الموقع بكفاءة على جميع الأجهزة والهواتف.
 * 🛠️ **تحسين الأداء و SEO:** تسريع تحميل الصفحات وضبط قواعد محركات البحث للواجهات الأمامية.
@@ -36,15 +36,6 @@
 | :--- | :--- | :--- | :--- |
 | **لوحة تحكم تفاعلية** | لوحة إحصائيات لمتابعة المبيعات مع دعم النمط الداكن | React, Tailwind CSS | [Live Demo](#) |
 | **موقع قالب احترافي** | موقع هبوط متعدد الصفحات متجاوب بالكامل | HTML, CSS, JS | [Live Demo](#) |
-
----
-
-### 📊 إحصائيات GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
